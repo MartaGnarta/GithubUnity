@@ -1,0 +1,165 @@
+commit 04f32f62b814883fe7e25d57da47954d367a98fa
+Author: MartaGnarta <martikajover@icloud.com>
+Date:   Thu Oct 21 09:28:18 2021 +0200
+
+    ModificacionTag
+
+commit 4b128d2cd9bbe730ae79d32e08defe9cfe5a218a
+Author: MartaGnarta <martikajover@icloud.com>
+Date:   Thu Oct 21 09:21:06 2021 +0200
+
+    ModificacionTres
+
+commit c0a2ec733838f444898c0c3c97a0c3b6df49bdd6
+Author: MartaGnarta <martikajover@icloud.com>
+Date:   Thu Oct 21 09:19:19 2021 +0200
+
+    AñadidaFoto
+
+commit 645bc279c7ad293bd5c896921e11861b43827ac8
+Author: MartaGnarta <martikajover@icloud.com>
+Date:   Thu Oct 21 09:14:53 2021 +0200
+
+    ModificacionDos
+
+commit 1c653ca1d1a0400c5606b9bfada306e4ab8f9531
+Author: MartaGnarta <martikajover@icloud.com>
+Date:   Thu Oct 21 09:12:59 2021 +0200
+
+    ModificacionUno
+
+commit 310c7a5d8fbc3662f01b8fe1fab30a39fcd4128c
+Author: MartaGnarta <martikajover@icloud.com>
+Date:   Thu Oct 21 09:02:55 2021 +0200
+
+    PrimerCommitProyectoUnity
+
+commit 961018f96fdaf9431dc582d0ee179952ad82d3d9
+Author: MartaGnarta <martikajover@icloud.com>
+Date:   Thu Oct 21 08:47:47 2021 +0200
+
+    a
+
+commit 234cc5164e840516db6fc444f640aaf6c6d0ff51
+Author: MartaGnarta <martikajover@icloud.com>
+Date:   Thu Oct 21 08:43:56 2021 +0200
+
+    cambiosunity
+
+commit 4a225f94b3d7da1b7655edf84ecf0f2aaf2fe7a8
+Author: MartaGnarta <martikajover@icloud.com>
+Date:   Thu Oct 21 08:40:43 2021 +0200
+
+    cambio2
+
+commit 7d01f6699f443bc3f6ab408c81b3633902bc06d8
+Author: MartaGnarta <martikajover@icloud.com>
+Date:   Thu Oct 21 08:39:15 2021 +0200
+
+    a
+
+commit 0472af0bed2f560c9cefd3d16e6503afeabe6a8c
+Author: MartaGnarta <martikajover@icloud.com>
+Date:   Thu Oct 21 08:37:51 2021 +0200
+
+    a
+
+commit c62b94731177a05734306c08ada8762d5821a4bc
+Author: MartaGnarta <martikajover@icloud.com>
+Date:   Thu Oct 21 08:31:41 2021 +0200
+
+    ary/Artifacts/0f/0fd83437ee6aeeb20abd5a2ef89f6d80
+    OBOBOB#
+    
+    </Desktop/GithubUnity/.git/COMMIT_EDITMSG[+] [unix] (08:31 21/10/2021)1390,1  8%
+    -- INSERT --
+    
+            #       new file:   Library/Artifacts/65/65c5b92f4379e7045131e9dd1cf81c82
+    </Desktop/GithubUnity/.git/COMMIT_EDITMSG[+] [unix] (08:31 21/10/2021)1390,1  8%
+    -- INSERT --
+    new file:   Library/Artifacts/d4/d42b5aedf03d84f518897202abb71b16
+    
+    OBOBOB#       new file:   Library/Artifacts/4f/4f7af4205228e0446039ff1ed20493c7
+    OBOBOB#       new file:   Library/Artifacts/4f/4f7b21051f8c890237ad6fe1c30eb084
+    OBOBOB#       new file:   Library/Artifacts/4f/4f8dc3745a2af094cc90eae4b8f9da94
+    OBOBOB#       new file:   Library/Artifacts/4f/4f96e3527e6af45e0f72fb67492136a4
+    </Desktop/GithubUnity/.git/COMMIT_EDITMSG[+] [unix] (08:31 21/10/2021)1390,1  8%
+    OBOBOB-- INSERT --
+    
+    git status
+    
+    OBOBOB#       new file:   Library/Artifacts/4e/4ead167d954062d9a7f5f585d351a35d
+    OAOAOA#       new file:   Library/Artifacts/4e/4ed55df8ddc09e4545421d958cdd3cf2
+    OBOBOB#       new file:   Library/Artifacts/4f/4f2f171817cc7dff3f3bd2216facaa03
+    OBOBOB#       new file:   Library/Artifacts/4f/4f4d3c0bc3b683a4f33c7141f2f5f565
+    OBOBOB#       new file:   Library/Artifacts/4f/4f7af4205228e0446039ff1ed20493c7
+    OBOBOB#       new file:   Library/Artifacts/4f/4f7fd93185b54a1abc0fe623dfb9eee5
+    OBOBOBOBOBOB#       new file:   Library/Artifacts/4f/4f8dc3745a2af094cc90eae4b8f9da94
+    OBOBOBOBOBOB#       new file:   Library/Artifacts/4f/4f8e398eceb2cb693d868547da1e75c4
+    OBOBOB#       new file:   Library/Artifacts/4f/4f974ad97127ba08f208cf9b0c20c3e6
+    </Desktop/GithubUnity/.git/COMMIT_EDITMSG[+] [unix] (08:31 21/10/2021)1390,1  8%
+    OBOBOB-- INSERT --
+    
+    OBOBOB#       new file:
+    Library/Artifacts/4e/4ead167d954062d9a7f5f585d351a35d
+    Library/Artifacts/4e/4eb73f4f51d7c89ddade4a9a7914cd03
+    OAOAOA#       new file:
+    Library/Artifacts/4e/4ed55df8ddc09e4545421d958cdd3cf2
+    Library/Artifacts/4e/4ef211f88748481482b9e830ba0ca965
+    Library/Artifacts/4f/4f053b3378511fca01e28488dd1e113b
+    Library/Artifacts/4f/4f057db4829073f2a7d5fac2e03e6c41
+    Library/Artifacts/4f/4f15bb9cf5870c4e795a84b7b19ce5ae
+    Library/Artifacts/4f/4f1b55247c9c67e09f7f693a20598592
+    Library/Artifacts/4f/4f2c3e64db8e3dfd234ee0ab70283afa
+    OBOBOB#       new file:
+    Library/Artifacts/4f/4f2f171817cc7dff3f3bd2216facaa03
+    OBOBOB#       new file:
+    Library/Artifacts/4f/4f4d3c0bc3b683a4f33c7141f2f5f565
+    Library/Artifacts/4f/4f5c6a269045abfa4eb336e39e32a5be
+    OBOBOB#       new file:
+    Library/Artifacts/4f/4f7af4205228e0446039ff1ed20493c7
+    Library/Artifacts/4f/4f7b21051f8c890237ad6fe1c30eb084
+    OBOBOB#       new file:
+    Library/Artifacts/4f/4f7fd93185b54a1abc0fe623dfb9eee5
+    OBOBOBOBOBOB#       new file:
+    Library/Artifacts/4f/4f8dc3745a2af094cc90eae4b8f9da94
+    OBOBOBOBOBOB#       new file:
+    Library/Artifacts/4f/4f8e398eceb2cb693d868547da1e75c4
+    Library/Artifacts/4f/4f96e3527e6af45e0f72fb67492136a4
+    OBOBOB#       new file:
+    Library/Artifacts/4f/4f974ad97127ba08f208cf9b0c20c3e6
+    </Desktop/GithubUnity/.git/COMMIT_EDITMSG[+] [unix] (08:31
+    21/10/2021)1390,1  8%
+    OBOBOB-- INSERT --
+    
+    OBOBOB#       new file:
+    Library/Artifacts/4e/4ead167d954062d9a7f5f585d351a35d
+    Library/Artifacts/4e/4eb73f4f51d7c89ddade4a9a7914cd03
+    OAOAOA#       new file:
+    Library/Artifacts/4e/4ed55df8ddc09e4545421d958cdd3cf2
+    Library/Artifacts/4e/4ef211f88748481482b9e830ba0ca965
+    Library/Artifacts/4f/4f053b3378511fca01e28488dd1e113b
+    Library/Artifacts/4f/4f057db4829073f2a7d5fac2e03e6c41
+    Library/Artifacts/4f/4f15bb9cf5870c4e795a84b7b19ce5ae
+    Library/Artifacts/4f/4f1b55247c9c67e09f7f693a20598592
+    Library/Artifacts/4f/4f2c3e64db8e3dfd234ee0ab70283afa
+    OBOBOB#       new file:
+    Library/Artifacts/4f/4f2f171817cc7dff3f3bd2216facaa03
+    OBOBOB#       new file:
+    Library/Artifacts/4f/4f4d3c0bc3b683a4f33c7141f2f5f565
+    Library/Artifacts/4f/4f5c6a269045abfa4eb336e39e32a5be
+    OBOBOB#       new file:
+    Library/Artifacts/4f/4f7af4205228e0446039ff1ed20493c7
+    Library/Artifacts/4f/4f7b21051f8c890237ad6fe1c30eb084
+    OBOBOB#       new file:
+    Library/Artifacts/4f/4f7fd93185b54a1abc0fe623dfb9eee5
+    OBOBOBOBOBOB#       new file:
+    Library/Artifacts/4f/4f8dc3745a2af094cc90eae4b8f9da94
+    OBOBOBOBOBOB#       new file:
+    Library/Artifacts/4f/4f8e398eceb2cb693d868547da1e75c4
+    Library/Artifacts/4f/4f96e3527e6af45e0f72fb67492136a4
+    OBOBOB#       new file:
+    Library/Artifacts/4f/4f974ad97127ba08f208cf9b0c20c3e6
+    </Desktop/GithubUnity/.git/COMMIT_EDITMSG[+] [unix] (08:31
+    21/10/2021)1390,1  8%
+    OBOBOB-- INSERT --
